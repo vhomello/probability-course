@@ -13,7 +13,7 @@ Sites:
 - https://web.stanford.edu/class/cs109
 
 Sumário
-1. Combinatória
+1. Ferramentas Básicas
 2. Probabilidade
 3. Variáveis Aleatórias
 5. Modelos probabilisticos
